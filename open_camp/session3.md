@@ -473,4 +473,4 @@ config.action_mailer.default_url_options = { :host => 'localhost:3000' }
 
 And that's it! Now, when you send password reset requests via the sign in form, Mailtrap will show you the e-mail sent. 
 
-For production environments you could use services like [SendGrid](www.sendgrid.com) or [MailChimp's Mandrill](www.mandrill.com). Both are very easy to incorporate into Rails in a very similar way we did with Mailtrap.
+For production environments you could use services like [SendGrid](http://www.sendgrid.com) or [MailChimp's Mandrill](http://www.mandrill.com). Both are very easy to incorporate into Rails in a very similar way we did with Mailtrap.
